@@ -1,3 +1,6 @@
+# Project specific
+chat.db
+
 # Logs
 logs
 *.log

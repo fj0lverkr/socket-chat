@@ -6,6 +6,8 @@
   "dependencies": {
     "express": "^4.21.0",
     "socket-chat": "file:",
-    "socket.io": "^4.8.0"
+    "socket.io": "^4.8.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
   }
 }
